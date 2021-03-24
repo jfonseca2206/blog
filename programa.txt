@@ -2,3 +2,7 @@ Programa o proyecto
 Naci en Ecuador
 El 22 de junio de 1986
 Este es una bestia esta vaina.
+
+Hoy es el CEO de platzi
+
+Este es una prueba para el git
