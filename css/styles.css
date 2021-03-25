@@ -1,10 +1,9 @@
 body {
-  color: #333;
+  color: red;
   text-align: center;
 
   font-family: "Arial";
   background-color: rgb(209, 224, 219);
-
   font-size: 16px;
   margin: 0;
   padding: 0;
