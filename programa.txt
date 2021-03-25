@@ -7,4 +7,4 @@ Hoy es el CEO de platzi
 
 Este es una prueba para el git
 
-Se realiza otro cambio 
+Se realiza otro cambio.
